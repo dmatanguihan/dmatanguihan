@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel Matanguihan! <br/><a href="https://github.com/joshmadakor1">Desktop Support Engineer</a>, <a href="https://www.linkedin.com/in/daniel-m-3a032955/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/daniel-m-3a032955/">Endpoint Compliance Engineer</a></h1>
+<h1>Hi, I'm Daniel Matanguihan! <br/><a href="https://www.linkedin.com/in/daniel-m-3a032955/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/daniel-m-3a032955/">Endpoint Compliance Engineer</a></h1>
 
 <h2>👨‍💻 Cyber Security and Linux Project:</h2>
 
