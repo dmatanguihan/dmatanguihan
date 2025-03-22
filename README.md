@@ -1,6 +1,6 @@
-<h1>Hi, I'm Daniel Matanguihan <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Daniel Matanguihan! <br/><a href="https://github.com/joshmadakor1">Desktop Support Engineer</a>, <a href="https://www.linkedin.com/in/daniel-m-3a032955/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/daniel-m-3a032955/">Endpoint Compliance Engineer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cyber Security and Linux Project:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
